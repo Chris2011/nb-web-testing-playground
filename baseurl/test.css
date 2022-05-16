@@ -1,0 +1,7 @@
+div {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background: url('assets/SB1.png'); // Geht, liegt aber nicht an base
+    background: url('/assets/SB1.png'); // Geht nicht.
+}

@@ -1,0 +1,23 @@
+{
+    "name": "HTML5Application",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Chris",
+    "contributors": [],
+    "dependencies": {},
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^4.29.1",
+        "@typescript-eslint/parser": "^4.29.1",
+        "@vue/eslint-config-prettier": "^6.0.0",
+        "@vue/eslint-config-typescript": "^7.0.0",
+        "eslint": "^7.32.0",
+        "eslint-plugin-prettier": "^3.4.0",
+        "eslint-plugin-vue": "^7.16.0"
+    }
+}
